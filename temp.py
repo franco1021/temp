@@ -48,3 +48,6 @@ def main():
                       pwd='637695ty')
             break
         time.sleep(600)
+
+if __name__ == '__main__':
+    main()
